@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./p2breviariumroma00cathuoft_1061.png"; bbox 0 0 2066 2956; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 645 561 1446 656">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 645 561 1446 656">
+     <span class='ocr_line' id='line_1_1' title="bbox 645 561 1446 656; baseline 0.01 -51"><span class='ocrx_word' id='word_1_1' title='bbox 645 561 731 607; x_wconf 79' lang='grc' dir='ltr'>ΒΟΤ</span> <span class='ocrx_word' id='word_1_2' title='bbox 766 563 875 607; x_wconf 59' lang='grc'>4371</span> <span class='ocrx_word' id='word_1_3' title='bbox 922 565 1000 656; x_wconf 53' lang='grc' dir='ltr'>,ιῇ</span> <span class='ocrx_word' id='word_1_4' title='bbox 1034 567 1114 610; x_wconf 86' lang='grc' dir='ltr'>ν.1</span> <span class='ocrx_word' id='word_1_5' title='bbox 1153 567 1266 611; x_wconf 74' lang='lat' dir='ltr'>Pars</span> <span class='ocrx_word' id='word_1_6' title='bbox 1302 568 1446 613; x_wconf 76' lang='lat' dir='ltr'>verna</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 623 613 1179 802">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 623 613 1179 802">
+     <span class='ocr_line' id='line_1_2' title="bbox 945 613 1029 657; baseline 0.012 -1"><span class='ocrx_word' id='word_1_7' title='bbox 945 613 969 656; x_wconf 92' lang='lat' dir='ltr'>S</span> <span class='ocrx_word' id='word_1_8' title='bbox 1005 614 1029 657; x_wconf 88' lang='lat' dir='ltr'>C</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 623 658 1179 752; baseline 0.007 -4"><span class='ocrx_word' id='word_1_9' title='bbox 623 726 624 732; x_wconf 13' lang='grc' dir='ltr'><strong><em>Ν</em></strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 645 658 1179 752; x_wconf 55' lang='grc' dir='ltr'>ἕξὲῡῗὲὲῗωῗᾞὲιῇἓηυω</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 634 754 879 802; baseline 0.012 -3"><span class='ocrx_word' id='word_1_11' title='bbox 634 754 879 802; x_wconf 58' lang='grc'>’47217152</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
